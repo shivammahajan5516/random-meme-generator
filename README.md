@@ -1,1 +1,1 @@
-# random-meme-generator
+This is a Meme Generator with which you can create your own personalized meme. This Meme Generator uses API to fetch various memes hence it includes a library of trending memes.You can add your text in it and with its download feature you can download the created meme to your device. It is built using ReactJs.
